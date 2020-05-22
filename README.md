@@ -1,2 +1,2 @@
 # Create-Data-Augumentation-for-Neural-Netwroks
-Thorugh this create an image generator to avoid overfitting in neural networs
+Through this code you will be able to create an image generator to avoid overfitting in neural networs
